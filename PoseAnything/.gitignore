@@ -1,0 +1,21 @@
+.eggs/*
+.vscode/*
+work_dirs/*
+work_dir/*
+pretrained/*
+ckpt/*
+runai_dataset/*
+*/__pycache__
+*.pyc
+data/*
+data
+output/*
+.idea/*
+pose_anything.egg-info/*checkpoints/*.pth
+# Ignore large model/data/output files
+*.pt
+*.npy
+*.mp4
+output/
+dataset/horsejump/
+pose_results_adjusted.json

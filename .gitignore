@@ -1,0 +1,5 @@
+*.pt
+*.npy
+dataset/horsejump/
+checkpoints/
+pose_results_adjusted.json

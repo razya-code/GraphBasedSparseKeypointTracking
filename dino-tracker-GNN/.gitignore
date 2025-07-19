@@ -1,0 +1,11 @@
+*__pycache__*
+.vscode
+.DS_Store
+
+# Ignore large model/data/output files
+*.pt
+*.npy
+*.mp4
+output/
+dataset/horsejump/
+pose_results_adjusted.json
